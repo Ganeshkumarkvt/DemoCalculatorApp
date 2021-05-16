@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DemoCalculator</string>
+    <string name="Xy">X<sup><small>y</small></sup></string>
 </resources>
